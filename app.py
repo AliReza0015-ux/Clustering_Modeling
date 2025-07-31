@@ -1,7 +1,6 @@
 # app.py
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
 from clustering import load_data, train_kmeans, calculate_wcss, calculate_silhouette
 
