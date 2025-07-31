@@ -14,9 +14,9 @@ unsupervised_clustering_solution/
 
 ---
 
-## 🚀 Live App
+## Live App
 
-> 🌐 [Click here to try the app](https://unsupervised-clustering-yourname.streamlit.app)
+> [Click here to try the app](https://unsupervised-clustering-yourname.streamlit.app)
 
 ---
 
